@@ -1,0 +1,10 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/Haushaltsplan.Business/bin/Debug/net5.0
+/.vs
+/Haushaltsplan.Business/obj
+/Haushaltsplan.Presentation/bin/Debug/net5.0-windows
+/Haushaltsplan.Presentation/obj
+*.user
